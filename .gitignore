@@ -1,0 +1,20 @@
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env*
+.env.local
+
+# System files
+*.log
+*.tmp
+.gemini/
+
+# Workspace local files
+task.md
+implementation_plan*.md
+walkthrough.md
+shm/
